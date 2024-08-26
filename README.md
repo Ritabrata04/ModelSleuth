@@ -1,6 +1,6 @@
 # ModelSleuth
 
-![ModelSleuth Logo](https://via.placeholder.com/150)  <!-- Replace with your logo or an image -->
+![ModelSleuth Logo](fox_detective_ms.jpg)  <!-- Replace with your logo or an image -->
 
 **ModelSleuth** is a powerful CLI tool that scours through Python files in your project to uncover detailed information about machine learning models defined or used within the codebase. Whether you're working with PyTorch, TensorFlow, or other popular frameworks, ModelSleuth helps you quickly identify and analyze model definitions with ease.
 
